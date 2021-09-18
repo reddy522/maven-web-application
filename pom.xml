@@ -27,7 +27,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<nexus.host.url>http://34.234.75.113:8081/</nexus.host.url>
-		<nexus.login>admin</sonar.login>
+		<nexus.login>admin</nexus.login>
 		<nexus.password>admin123</nexus.password> 
 
 	</properties>
